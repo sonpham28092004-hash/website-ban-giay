@@ -1,0 +1,35 @@
+body {
+    width: 1440px;
+    margin: auto;
+    font-family: Arial;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+
+.banner {
+    text-align: center;
+    padding: 50px;
+    border-bottom: 2px solid black;
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
